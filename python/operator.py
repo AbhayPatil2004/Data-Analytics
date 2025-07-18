@@ -25,4 +25,4 @@ print ( 10 << 2 )
 a = "abhay"
 print( 'a' in a )
 print( 'a' not in a )
-print ( 1 in 10 )
+# print ( 1 in 10 )
