@@ -19,3 +19,4 @@ print(a(5))
 
 x = lambda y , z : y * z 
 print(x(10,20))
+
